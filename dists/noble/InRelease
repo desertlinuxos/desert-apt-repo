@@ -1,40 +1,48 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: Desert Linux APT Repository
-Label: Desert Linux APT Repository
-Suite: noble
+Origin: Desert App
+Label: Desert App for Noble
+Suite: stable
 Codename: noble
-Architectures: amd64
+Date: Wed, 20 Aug 2025 10:25:44 UTC
+Architectures: amd64 i386
 Components: main
-Date: Wed, 20 Aug 2025 16:26:32 +0300
-
-Date: Wed, 20 Aug 2025 13:26:20 +0000
+Description: APT repository for DESERT OS software suite
 MD5Sum:
- e39257600b70dffa6e32ab2549b7f5f2             1065 Release
- 6f4a54907ceba289fac78ef776988067             4177 main/binary-amd64/Packages.gz
+ f4f67815128dbc7b4bde9c8e13b87765 13573 main/binary-amd64/Packages
+ 6e0b9c3f480f170c3bc7a52eb6713b61 4695 main/binary-amd64/Packages.gz
+ 706720bcfc25219c355dc8633ffc4965 156 main/binary-amd64/Release
+ 88f2228f9c638c613451db8d8806b60d 10020 main/binary-i386/Packages
+ 905c68ea69c1da5a99a27b7c6266a94b 3402 main/binary-i386/Packages.gz
+ 882eea53244752f2ddb4251d7a5deffc 155 main/binary-i386/Release
 SHA1:
- 11cddc5e1fd814ef8c1a7d90e53ed94b5842f03c             1065 Release
- 05869b528ad12f787d3193aa7f5b0acccae5d403             4177 main/binary-amd64/Packages.gz
+ 6294cf550af439e1e4657808078f33f878c98401 13573 main/binary-amd64/Packages
+ dcc58bb03af4e5b7e82f51ccabbdeff61013ad7c 4695 main/binary-amd64/Packages.gz
+ 1a94c2b39b26fa2955e0a11f131cca5aa7d7f0ad 156 main/binary-amd64/Release
+ 6b392455cc0f3f75ff4dff29b47a9988b2bfbcd7 10020 main/binary-i386/Packages
+ 56b6845ac958974282ff9db39bd9b20f1efcbb00 3402 main/binary-i386/Packages.gz
+ 8ef8093d7b60152af1aac628452bce34ae23a20e 155 main/binary-i386/Release
 SHA256:
- 1b837044cde3baba7c12a1713cabef89cf44b68be58902fede846f76a8502694             1065 Release
- b28c5d389c160ad2678f3e5aeaa3683a0f97691a230d37123da8d19e30bfc147             4177 main/binary-amd64/Packages.gz
-SHA512:
- 59970f3dd84a902399f02baef47f3e6ff9df88fa35305182e1719d147505a0c8338772833ac744608a8373006d65d33f16e3ee1eb5720e832827a129f0c1cce1             1065 Release
- 0494d27336093767289d9e78f4fa1f4c44f0342dc5a83c17af696c7cf66fecf90eebfe6dbd579efda363968e1f5e53d4cbe1284466f052f59097eae8c5588fbc             4177 main/binary-amd64/Packages.gz
+ 38895b888712a7bb60ab16597601c2709377646bdac56c87bef06d9846fb05f4 13573 main/binary-amd64/Packages
+ d3bcd1c751d1c5af04999dfabd4a38da3d86cf1999f6dc8d4092753b3feb7d7e 4695 main/binary-amd64/Packages.gz
+ dac932c4175d1fcbfbc0331d00950d397b6fdb8c8d5ee3befa5b59bb4c34f331 156 main/binary-amd64/Release
+ 618511d40da3d4891d856b2916a4463edb5216ac1064bfb0f8c9b35ad4f160b9 10020 main/binary-i386/Packages
+ 0257d9f35abc2a16951d2072603960d9f6a5dea472c2675c3fc9ae220befbcff 3402 main/binary-i386/Packages.gz
+ 9fa6147ee4592093b8bafffc9f41c3b0788a99a0c84415714354be6eaddf8fa2 155 main/binary-i386/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEf9CM1jVJKu47v0QRmLLtIcxyXiwFAmilzVIACgkQmLLtIcxy
-XixadBAAo9MtOFApZoHtuE5Bn15O/kM23msrbVBp3iLge99gmCX8a4QcGQpi7yWi
-V7r4pu+T7GSlmvDoLDkYHr55odJPWNPQFzf5oFraihNCnRbbXh0ukUVr4pLnlwm+
-RpogpmWzekkK8R5K7yLAImewcd3buHEUJxuVI6mtWOB5pt/prjaTAQVIbNjzKRrJ
-Jx68LTwEGlLuIiu2ZdMcHxLKXANo0ygtAFj8OnDDOVKFL6D5etjcS6LkTfeZAJb0
-5nNTh6NAje9Q1ycOgaOsWsVl33EFD2ycNNEAADWSUSEcX41kHBabWcC02iuE4e05
-m80pLg5TTepEqPGB6Kh/Hur/MAXN5koC53+AhZNdr574ykxI79UaDWEea+N5nupq
-zPe2eGSVnA9ndhkco4Kh9PRr5jJUXHzsW5x+qi+o1F9+1vgP4BSbJh3OkZ3ObTT0
-O8loyiTHGq03r6xmfB5KoAIs1Nkttg3dd/bo4J7o2bkSx0w03EAF+XcGqgs94UKM
-Nni/o2QlzF98QP7WHAPp9tNah3DdxxsDKXYGK9eNrCokSPj7mkeNYuhFM6LiOFm1
-kI/h2qdd4QvgjGvtd8wfeoBs8MVIA3jNBgboUVMtTTHlsXpyLSIaJ6BhlZmdLDty
-utj3EcnJ3SksyCCJz3/9Sdnt5hcCDzrK1mNy7fgJk7qFudrNR6s=
-=BkO2
+iQIzBAEBCgAdFiEEf9CM1jVJKu47v0QRmLLtIcxyXiwFAmil8XEACgkQmLLtIcxy
+XizebQ/+OdbCV8H8lO5NseDEBtEf3msNncGCOIniYN+BtxyWwqzHwHv/supxUsNd
+JXDnMJdJILh7+BtBHdrIlxKEsGZFgCJAMrWJX5BJbiQtWvJglgRr+G9HoNpLVtnL
+nhZIwxRQJl4rSalX9ldTfcGLjMojGh9JQIu7Z+YeqEeUG3plBc+/JApw0Dc4PUmE
+4fNqCODEEkdai6YVzeWg0XthfdL7MoBCSlvoBW43i0oR761u5QqTtXBeAeFiNs+X
+W3vkL/xTZVzkFwz2Si1wmGNronzyfYS3SijCkd6c3ADo434s9N3ORPVcnKmwcG6R
+BqV87WXrRiEUCgkXut2YN1CMJ8DyXfSq0DXeIwmSTsxBZ/YLUdG+lo6Pqq0L2GfX
+M18R6BxwZlkah0cUCpgvam/S8CS/ScKWPI0P8g9AcmCL00N57sYDJxW9OzefxxTg
+6suWlR1M7Z2iGPRpd6jPS88mqQosSTp7BaG9d9q2UbUwoGraQeNTPoZhvkWubPhy
+4vBv9TFU3AhJJ6Agb3Q1AZLpSsm9kiyzICHyjWbJx+ttJQzSmCXxyNeUOSb3U11e
+Gv0Z43GWD01eJ7aZ8x9v4dGNcybBEzgUYVohxrigmpLFwxZjjKM1s6Ii82FapE5C
+FfyBC+yerhQTdu2AAY6RnViOhgJudNUHGhLe1HtCXnMWLEODKsU=
+=fjj1
 -----END PGP SIGNATURE-----
