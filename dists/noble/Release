@@ -1,13 +1,20 @@
-Date: Wed, 20 Aug 2025 13:01:00 +0000
+Origin: Desert Linux OS
+Label: Desert Linux APT Repository
+Suite: noble
+Codename: noble
+Architectures: amd64
+Components: main
+
+Date: Wed, 20 Aug 2025 13:11:46 +0000
 MD5Sum:
- dfbcb785d83d2227a8a9abf4b3c76a75               38 Release
+ e84ae69741cccceaf123a558b3d4fd89              900 Release
  6f4a54907ceba289fac78ef776988067             4177 main/binary-amd64/Packages.gz
 SHA1:
- 3cbf5d78b3ebbf4122ef5ba70ebda23682aaa9c6               38 Release
+ 7860609b0ccbe29b8410c67ab261c825a9e7d608              900 Release
  05869b528ad12f787d3193aa7f5b0acccae5d403             4177 main/binary-amd64/Packages.gz
 SHA256:
- 937c5c8dacc3780bc8c5f3f0301226c1862e1490360aa98cbbc3f845fefe7bd0               38 Release
+ efdeafa9ea236b692fb83d6058ac458e7a6676221b075c5878939309de9184cc              900 Release
  b28c5d389c160ad2678f3e5aeaa3683a0f97691a230d37123da8d19e30bfc147             4177 main/binary-amd64/Packages.gz
 SHA512:
- 43d58ae3beecb189b45edad6a2110d7b7c10d407e5562ac96b056072fabd1deb9abdb9ddbcd838e752e15a1744886e0312941cc86c4d94355b83d52f5e7dbd0b               38 Release
+ 451e13e3d565f820ae96f853ac9f0496dc5b1725e5883ff49616752b3f4699366126dab92aaabc16dd34af25717cfb7db7c1845c84dc912fef1431b4668a7cf2              900 Release
  0494d27336093767289d9e78f4fa1f4c44f0342dc5a83c17af696c7cf66fecf90eebfe6dbd579efda363968e1f5e53d4cbe1284466f052f59097eae8c5588fbc             4177 main/binary-amd64/Packages.gz
