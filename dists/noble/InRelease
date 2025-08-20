@@ -1,40 +1,40 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: Desert Linux OS
+Origin: Desert Linux APT Repository
 Label: Desert Linux APT Repository
 Suite: noble
 Codename: noble
 Architectures: amd64
 Components: main
-Date: Wed, 20 Aug 2025 19:09:13 +0300
+Date: Wed, 20 Aug 2025 19:17:16 +0300
 
-Date: Wed, 20 Aug 2025 16:08:54 +0000
+Date: Wed, 20 Aug 2025 16:17:16 +0000
 MD5Sum:
- b957a63aab3ed315e11a5ac79888449e             1666 Release
+ 55a422f7d52ce194f8368c55e8aa82bf             1065 Release
  6f4a54907ceba289fac78ef776988067             4177 main/binary-amd64/Packages.gz
 SHA1:
- 4999d468e05a74be366b16dae25c050b86197132             1666 Release
+ e64546f90fed866723ce4f3921ac97d5d1e62b56             1065 Release
  05869b528ad12f787d3193aa7f5b0acccae5d403             4177 main/binary-amd64/Packages.gz
 SHA256:
- 48727a4d25074371b14b6cb8011f60050f705a7e0bbe34ede7a96c9dba42c44f             1666 Release
+ fc737f854f742dd987cd58ea9d7cae559e686a7b32838ad39f388ba08aedc928             1065 Release
  b28c5d389c160ad2678f3e5aeaa3683a0f97691a230d37123da8d19e30bfc147             4177 main/binary-amd64/Packages.gz
 SHA512:
- d4d704812c0f60cdb5b155bbf38fcbba67d2c0f4320e9650ced485c9744fa2c77f05eeeaf9b038ee6a8ca250c28593760950e38ee6f53a4af1fab702f37f5250             1666 Release
+ 1f818f0ac3acd8456c30c8f2333339789f8c6380012314122171af54c36901d1e82aeda4f471b54aca2162668160e0f2b58ee51298057bd26b3d0c70cf26c5fc             1065 Release
  0494d27336093767289d9e78f4fa1f4c44f0342dc5a83c17af696c7cf66fecf90eebfe6dbd579efda363968e1f5e53d4cbe1284466f052f59097eae8c5588fbc             4177 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEf9CM1jVJKu47v0QRmLLtIcxyXiwFAmil81EACgkQmLLtIcxy
-XiwL1Q/9H+GdlwoMOBB4SX/vhITDwmTP825KGYYKRXz2kgohQW55417L/BaByKmd
-zR9bLyHoAUldEPYlUddv1u9IAflpwycG01guhvCL3lHBC3DIgGbuprrq29JPQWaS
-kDltKslNTIHo26WdqQwQHQUpaqaRKz+0/PM0AikLV4do5uI40zP9HJ/L0ODAu4It
-S4PAPPL5UwymEOldta+wPNwvunNSs0it1BdXlAzWhfXiPhbuollsEjdK64W+rZ/M
-Jvn6dqKZbFAO8O58TpJ3m869hRRxiAtBL4fmuTFDVRFh+6CcFdoL6pNSPgKxnPUZ
-6s7dO3KPiMVehKBUN4ltxoPsLCV7eFUpEIQQKYq14lNBdEkwYPAUn5uO8FYZrzSt
-vrNLy0YmtHXES11Du2IYrcnYvloWHSicZpfub/ZUXp6cUtRw8yOhrywET1Cf8YO/
-PSkauglE55o481jO0dFvLRFao/+oM/1+MSh+PYEYNj0fD+zdW4DzEHdQte4FJbnt
-Mbw0TOZTT3mDCVX6GTuFOIOtOCMD6b6GJLBHh+Do+3yo+NXTF15Zxb5nDEhR/kjI
-G1W3OslZznhwsYyYr1e/rT1T6q5pVmvx27pxfX7KQxdZ/U3bPZP4Y9OR1ImPL0+q
-QGIslejB+zwICYkSs8KGoMrOiLIx77fHxBjkexOsnyrzRC6Ugf4=
-=Mkww
+iQIzBAEBCgAdFiEEf9CM1jVJKu47v0QRmLLtIcxyXiwFAmil9SsACgkQmLLtIcxy
+XiywQBAAuyYprkDmL5M2ZZ8Pdv1jO0Svy9s+GDBLX20/IJ2zeGuEv4/L4/HAy0X+
+uwHTWS/ly4FKFMFyL+NgR+lql8bGQ6IOTEQmkIrvz/5w1i8FqubnZGaBPjaYN5Y1
+uf1CXKWHoSDa0Z4oSZZygt/NUFVTMwk7SBvhPtkmOI0itDLzmWzw0UZBs5n0LVH+
+ekyYmZ2LcoM3ipg/EduNxMgT97ChKVEjWk9NGGlxP6zrQCZj2H0WbgnxnZsR7ZGV
+OqTb7SHgtmrx0P/WqiX/Lw2Ha8FYgTOOviX0/3QDLplpnE3zC+Youb3WNvtIiz7a
+kvWGwcaZ/tsNAKEwrwxaTF4RsMSAFAkszScKoFOXK/bM0Aq+xVChK0Vyp7rpOuPL
+SMvRGZEsse941j0FOPoKifBNwQow1jpIHOTSjhuXPg0tROM7JHIOwmLtrGMOhZco
+rZW3oZvYNzMGyYQhsR2zhMwmYoqjghGJGOw4GafxWUaEMDneCzxClreCOHfvt7nZ
+uN7xTNhwZNmh0Vgn2BF7Ao581YD3bBntaUauSqzVj9WNTFDILGSV8VY6xO8xTEZ1
+3LdtVQEbfUYHBzv0D/uIbsObKFIYRcBxRhqpEa/YU0wsiSy8YrkqfHnRueDO/f+C
+2GAsFVk0q/hll71By6UIpA7nLSw3ypUXOE267RjI86FnNopQuI4=
+=dNw8
 -----END PGP SIGNATURE-----
